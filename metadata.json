@@ -1,0 +1,8 @@
+{
+  "name": "OmniRead - AI Novel Aggregator",
+  "description": "A next-generation web novel aggregator that discovers, catalogs, and generates novel content using AI analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
